@@ -1,0 +1,24 @@
+# python==3.11.4
+matplotlib
+xarray
+seaborn
+netCDF4
+cftime
+dask
+cmcrameri
+cartopy
+scipy
+jupyter
+intake
+ffmpeg
+ipython
+ipykernel
+ipywidgets
+jupyter-client
+jupyterlab
+nbclient
+nbconvert
+nbformat
+notebook
+qtconsole
+traitlets
